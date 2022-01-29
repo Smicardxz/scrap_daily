@@ -1,0 +1,2 @@
+# WebScraperWithSmicardx
+Automatisation de veille
