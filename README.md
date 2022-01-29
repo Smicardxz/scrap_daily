@@ -1,2 +1,3 @@
 # WebScraperWithSmicardx
-Automatisation de veille
+
+Création d'un outil d'automatisation de veille
